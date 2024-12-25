@@ -1,5 +1,17 @@
 # Changelog
 
+## [8.4.0](https://github.com/stevearc/conform.nvim/compare/v8.3.0...v8.4.0) (2024-12-25)
+
+
+### Features
+
+* biome organize imports ([#599](https://github.com/stevearc/conform.nvim/issues/599)) ([06804af](https://github.com/stevearc/conform.nvim/commit/06804af4f2a8ebbc991bb4c7d369c5208e27b0b6))
+
+
+### Bug Fixes
+
+* create ConformInfo regardless of setup ([#605](https://github.com/stevearc/conform.nvim/issues/605)) ([9180320](https://github.com/stevearc/conform.nvim/commit/9180320205d250429f0f80e073326c674e2a7149))
+
 ## [8.3.0](https://github.com/stevearc/conform.nvim/compare/v8.2.0...v8.3.0) (2024-12-21)
 
 
